@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1012659471115",
+    "project_id": "quick-campus-35b8e",
+    "storage_bucket": "quick-campus-35b8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012659471115:android:603e9a40559a879af1980e",
+        "android_client_info": {
+          "package_name": "com.example.quickcampu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012659471115-5dkebcnvn0i4ksf8seoniet59qoqlcqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wejpz2dpy0RISNlLKT1v-VQwFsijjLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012659471115-5dkebcnvn0i4ksf8seoniet59qoqlcqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012659471115-g1ai91ti9q77rlkvu6od35pmghvjvad6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quickcampus"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012659471115:android:773f78bb83a6140cf1980e",
+        "android_client_info": {
+          "package_name": "com.example.quickcampus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012659471115-5dkebcnvn0i4ksf8seoniet59qoqlcqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wejpz2dpy0RISNlLKT1v-VQwFsijjLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012659471115-5dkebcnvn0i4ksf8seoniet59qoqlcqk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1012659471115-g1ai91ti9q77rlkvu6od35pmghvjvad6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.quickcampus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
